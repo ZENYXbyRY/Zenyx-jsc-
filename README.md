@@ -908,6 +908,7 @@
     <div class="modal-content">
       <div class="order-confirmation">
         <h2>🎉 Order Placed Successfully!</h2>
+        <h4> send screenshot of this page and the payment of the order to 9717238838 </h4> 
         <p>Thank you for your purchase. Your order has been received.</p>
         
         <div class="order-details">
